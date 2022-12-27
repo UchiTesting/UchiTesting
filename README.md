@@ -9,7 +9,7 @@
   - EF Core
   - .NET MAUI
   - React
-- 🌱 I’m currently learning **Java** in a training until December 2022. The training teaches:
+- 🌱 Prepared and passed a **Java** Full-Stack certification until end of November 2022. The training teaches:
   - Java OOP
   - UML
   - GIT (I use GIT for years already yet I learnt a few cool things)
@@ -17,7 +17,8 @@
   - SQL, JPA Hibernate
   - Angular, JFS, Spring
   - Eclipse as an IDE
-- In my free time I am currently learning **Jenkins**
+- In my free time I am currently learning **Xamarin** stuff
+- I am currently working as a developer
 I plan to refresh my **Docker** knowledge from the notes I took on a course. 
 [This course](https://www.udemy.com/course/docker-complete) got completed with **Kubernetes** (thanks [@bstashchuk](https://github.com/bstashchuk/)).
 I will complete my notes and work on it at a later time
