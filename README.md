@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @UchiTesting
-- I did a bit of everything in IT (Tech Support, Operator, Developer (as intern to date))
+- I did a bit of everything in IT (Tech Support, Operator, Developer)
 - I love the .NET stack of technologies. I have been trained C# and worked with:
   - WPF, Xamarin, ASP .NET MVC
   - LINQ, Entity Framework, SQL Server
   - Visual Studio as IDE (for .NET) and VS Code as code editor (for front-end mostly)
+  - .NET CLI
 - I did complete my knowledge with:
   - ASP .NET Core
   - EF Core
@@ -17,9 +18,9 @@
   - SQL, JPA Hibernate
   - Angular, JFS, Spring
   - Eclipse as an IDE
-- In my free time I am currently learning **Xamarin** stuff
+- In my free time I am currently learning **K8S** stuff
 - I am currently working as a developer for a digital services company.
-- I plan to refresh my **Docker** knowledge from the notes I took on a course. 
+
 [This course](https://www.udemy.com/course/docker-complete) got completed with **Kubernetes** (thanks [@bstashchuk](https://github.com/bstashchuk/)).
 I will complete my notes and work on it at a later time
 - 👀 I’m interested in IT (I know. Suprising, right?) focusing on development
