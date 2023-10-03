@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/44cda601-286e-49a4-b974-c320ac18d8ea.svg)](https://wakatime.com/@44cda601-286e-49a4-b974-c320ac18d8ea)
+
 - 👋 Hi, I’m @UchiTesting
 - I did a bit of everything in IT (Tech Support, Operator, Developer)
 - I love the .NET stack of technologies. I have been trained C# and worked with:
