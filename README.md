@@ -20,7 +20,7 @@
   - SQL, JPA Hibernate
   - Angular, JFS, Spring
   - Eclipse as an IDE
-- In my free time I am currently learning **K8S** stuff
+- In my free time I am currently learning various stuff ( **K8S**, Blazor, TPL, Advanced T-SQL, you name it...)
 - I am currently working as a developer for a digital services company.
 
 [This course](https://www.udemy.com/course/docker-complete) got completed with **Kubernetes** (thanks [@bstashchuk](https://github.com/bstashchuk/)).
